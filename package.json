@@ -1,7 +1,6 @@
 {
   "name": "phi-livesolve",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,9 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "jquery": "^3.1.1",
     "pg": "^6.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melissa-Elizabeth/phi-week4-livesolve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Melissa-Elizabeth/phi-week4-livesolve/issues"
+  },
+  "homepage": "https://github.com/Melissa-Elizabeth/phi-week4-livesolve#readme",
+  "description": ""
 }
